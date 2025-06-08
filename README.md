@@ -1,2 +1,2 @@
-s# proj1
+# proj1
 2
